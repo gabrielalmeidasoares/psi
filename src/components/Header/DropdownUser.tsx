@@ -111,7 +111,7 @@ const DropdownUser = () => {
                   fill=""
                 />
               </svg>
-              My Profile
+              Meu perfil
             </Link>
           </li>
           <li>
@@ -137,7 +137,7 @@ const DropdownUser = () => {
           </li>
           <li>
             <Link
-              href="/settings"
+              href="/configuracoes"
               className="flex items-center gap-3.5 text-sm font-medium duration-300 ease-in-out hover:text-primary lg:text-base"
             >
               <svg
