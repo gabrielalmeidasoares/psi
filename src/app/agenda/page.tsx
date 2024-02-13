@@ -1,6 +1,6 @@
 import Calendar from "@/components/Calender";
 import { Metadata } from "next";
-import DefaultLayout from "@/components/Layouts/DefaultLaout";
+import DefaultLayout from "../../components/Layouts/DefaultLaout";
 
 export const metadata: Metadata = {
   title: "PsicoConexão | Agenda",

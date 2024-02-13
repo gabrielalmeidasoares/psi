@@ -8,7 +8,7 @@ import CheckboxTwo from "@/components/Checkboxes/CheckboxTwo";
 import DatePickerTwo from "@/components/FormElements/DatePicker/DatePickerTwo";
 import DatePickerOne from "@/components/FormElements/DatePicker/DatePickerOne";
 import MultiSelect from "@/components/FormElements/MultiSelect";
-import SelectGroupTwo from "@/components/SelectGroup/SelectGroupTwo";
+import SelectGroupTwo from "../SelectGroup/SelectGroupTwo";
 
 const FormElements = () => {
   return (

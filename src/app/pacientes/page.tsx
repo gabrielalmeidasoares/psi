@@ -1,11 +1,7 @@
-
-
 import Breadcrumb from "@/components/Breadcrumbs/Breadcrumb";
-import Image from "next/image";
 import { Metadata } from "next";
-import DefaultLayout from "@/components/Layouts/DefaultLaout";
-import Link from "next/link";
-import TableThree from "@/components/Tables/TableThree";
+import DefaultLayout from "../../components/Layouts/DefaultLaout";
+
 
 export const metadata: Metadata = {
   title: "PsicoConexão | Meus Pacientes",

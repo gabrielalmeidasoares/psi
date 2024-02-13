@@ -1,7 +1,7 @@
 import Breadcrumb from "@/components/Breadcrumbs/Breadcrumb";
 import Image from "next/image";
 import { Metadata } from "next";
-import DefaultLayout from "@/components/Layouts/DefaultLaout";
+import DefaultLayout from "../../components/Layouts/DefaultLaout";
 
 export const metadata: Metadata = {
   title: "Configurações",
