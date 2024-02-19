@@ -6,7 +6,7 @@ import DefaultLayout from "../../../components/Layouts/DefaultLaout";
 export const metadata: Metadata = {
   title: "Recebimentos",
   description:
-    "This is Next.js Form Elements page for TailAdmin - Next.js Tailwind CSS Admin Dashboard Template",
+    "",
 };
 
 const FormElementsPage = () => {
